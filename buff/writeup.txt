@@ -1,0 +1,6 @@
+
+# Buff writeup
+
+ip: 10.10.10.198
+
+## initial scan using nmap
